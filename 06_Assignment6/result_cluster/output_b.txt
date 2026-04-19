@@ -1,0 +1,5 @@
+Total interpolation time = 0.702063 seconds
+Total interpolation time = 0.400532 seconds
+Total interpolation time = 0.376591 seconds
+Total interpolation time = 0.389344 seconds
+Total interpolation time = 0.392050 seconds
